@@ -19,7 +19,7 @@ batch_sentiments = indicoio.sentiment([
     "It's the best day ever.",
     "Spent a whole two hours just tying my shoe."
 ])
-print("Batch Setiments: {}".format(batch_sentiments))
+print("Batch Sentiments: {}".format(batch_sentiments))
 
 # Image recognition example
 image_url = "http://cdn3-www.dogtime.com/assets/uploads/gallery/goldendoodle-dog-breed-pictures/puppy-4_1.jpg"
